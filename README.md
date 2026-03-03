@@ -1,5 +1,5 @@
-# 📚 文系大学生による「実践データ分析100本ノック＆LLM活用20本ノック」学習ログ
-## 文学部の視点でITの専門用語やPythonプログラムを論理的に言語化。
+# 📚 文系大学生による『実践データ分析100本ノック＆LLM活用20本ノック』学習ログ
+## 文学部の視点でIT用語やPythonプログラムを論理的に言語化。
 非情報系でも直感的にIT用語やPythonプログラムが理解できる完全独自解説を記述したGoogle Colabノートブックを提供します。
 ## 使用ライブラリ
 pandas, numpy, matplotlib, matplotlib.pyplot, dateutil, sklearn, networkx, itertools, pulp, ortoolpy, cv2, dlib, google.colab, IPython, math, MeCab, mecab_python3, 
@@ -28,6 +28,6 @@ unidic-lite, torch, langchain, langchain_ollama, langchain_core, langchain_commu
 #コサイン類似度：特徴量同士の角度の近さで類似度を表す。 
 
 #【ベクトル空間】直面する状況下で、ベクトルと考えられる変数とそれに対応する特徴量のこと。【ベクトル】変数とそれに対応する特徴量。【スカラー】数値。1つ以上の変数に対応するベクトルの特徴量の積の和。【特徴量】特徴を分析するために数値化したもの。 
-## 出典
-下山輝昌・松田雄馬・三木孝行「Python 実践データ分析100本ノック 第3版」(秀和システム新社　2025)
+## 教材
+下山輝昌・松田雄馬・三木孝行 著「Python 実践データ分析100本ノック 第3版」(秀和システム新社、2025)
 
