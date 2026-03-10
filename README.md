@@ -9,10 +9,10 @@
 ### 🍂 [03_Literary_Dictionary](./03_Literary_Dictionary)
 **・ IT用語＆Python再定義辞書**
 
-
 ## ＊ 使用ライブラリ ＊
 pandas, numpy, matplotlib, matplotlib.pyplot, japanize_matplotlib, dateutil, sklearn, networkx, itertools, pulp, ortoolpy, cv2, dlib, google.colab, IPython, math, MeCab, mecab_python3, 
 unidic-lite, torch, langchain, langchain_ollama, langchain_core, langchain_community, langchain_experimental, re, json, subprocess, time, ollama, os, gradio
+
 ## ＊ 解説プレビュー ＊
 #cv2.cvtColor()：色の並び順や色の種類を変更する。 
 
