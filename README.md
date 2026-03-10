@@ -1,14 +1,14 @@
 # 📚 文系大学生による『実践データ分析100本ノック＆LLM活用20本ノック』学習ログ
 ## 文学部の視点でIT用語やPythonプログラムを論理的に言語化。
 非情報系でも直感的にIT用語やPythonプログラムが理解できる完全独自解説を記述した資料（Google Colabノートブック / PDF）は、以下の3セクションで展開しています。
-### 構成
-### 📊 [01_Practice_Notebooks](./01_Practice_Notebooks)
+## ＊ 構成 ＊
+### 📚 [01_Practice_Notebooks](./01_Practice_Notebooks)
 **実践データ分析100本ノック＆LLM活用20本ノック**
-- データ分析の実践プロセスと、LLM（生成AI）を組み合わせた最適化の試行。
+### ⛄ [02_Optimization_Reports](./02_Optimization_Reports)
+**コード修正および最適化プログラム構築**
+### 🍂 [03_Literary_Dictionary](./03_Literary_Dictionary)
+**IT用語＆Python再定義辞書**
 
-02 LLM活用20本ノック コード修正および最適化プログラム構築
-
-03 IT用語＆Python再定義辞書
 
 ## 使用ライブラリ
 pandas, numpy, matplotlib, matplotlib.pyplot, japanize_matplotlib, dateutil, sklearn, networkx, itertools, pulp, ortoolpy, cv2, dlib, google.colab, IPython, math, MeCab, mecab_python3, 
