@@ -3,17 +3,17 @@
 非情報系でも直感的にIT用語やPythonプログラムが理解できる完全独自解説を記述した資料（Google Colabノートブック / PDF）は、以下の3セクションで展開しています。
 ## ＊ 構成 ＊
 ### 📚 [01_Practice_Notebooks](./01_Practice_Notebooks)
-**- 実践データ分析100本ノック＆LLM活用20本ノック**
+**・ 実践データ分析100本ノック＆LLM活用20本ノック**
 ### ⛄ [02_Optimization_Reports](./02_Optimization_Reports)
-**コード修正および最適化プログラム構築**
+**・ コード修正および最適化プログラム構築**
 ### 🍂 [03_Literary_Dictionary](./03_Literary_Dictionary)
-**IT用語＆Python再定義辞書**
+**・ IT用語＆Python再定義辞書**
 
 
-## 使用ライブラリ
+## ＊ 使用ライブラリ ＊
 pandas, numpy, matplotlib, matplotlib.pyplot, japanize_matplotlib, dateutil, sklearn, networkx, itertools, pulp, ortoolpy, cv2, dlib, google.colab, IPython, math, MeCab, mecab_python3, 
 unidic-lite, torch, langchain, langchain_ollama, langchain_core, langchain_community, langchain_experimental, re, json, subprocess, time, ollama, os, gradio
-## 解説プレビュー
+## ＊ 解説プレビュー ＊
 #cv2.cvtColor()：色の並び順や色の種類を変更する。 
 
 #※色の並び順を変更する理由：AIやグラフの誤作動を起こさないため。 OpenCVは、古い世界標準(BGR)の並び順を適用しているのに対し、他のライブラリは、新しい世界標準(RGB)の並び順を適用している。 
@@ -37,6 +37,6 @@ unidic-lite, torch, langchain, langchain_ollama, langchain_core, langchain_commu
 #コサイン類似度：特徴量同士の角度の近さで類似度を表す。 
 
 #【ベクトル空間】直面する状況下で、ベクトルと考えられる変数とそれに対応する特徴量のこと。【ベクトル】変数とそれに対応する特徴量。【スカラー】数値。1つ以上の変数に対応するベクトルの特徴量の積の和。【特徴量】特徴を分析するために数値化したもの。 
-## 教材
+## ＊ 教材 ＊
 下山輝昌・松田雄馬・三木孝行 著「Python 実践データ分析100本ノック 第3版」(秀和システム新社、2025)
 
